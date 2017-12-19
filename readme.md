@@ -25,3 +25,24 @@ https://romhut.com/devices/samsunggalaxysivi9505
 
  #### DU Dirty Unicorns LOLLIPOP
 https://androidfilehost.com/?fid=24052804347810443 
+
+--------
+
+####Busybox
+
+Get latest flashable zips (ARM, X86, MIPS etc) from:
+https://github.com/yashdsaraf/bb-bot/releases
+
+meefik's Busybox Zip & Installer APK:
+https://github.com/meefik/busybox/releases
+
+meefik installer APK with addon.d support:
+https://github.com/vaginessa/busybox-with-addon.d/releases
+
+Jrummy's Busybox installer APK (free & paid builds):
+https://github.com/jrummyapps/BusyBox/releases
+
+
+
+
+
